@@ -1,0 +1,15 @@
+{
+  "name": "LiteServer",
+  "version": "1.0.0",
+  "description": "A Basic liteserver",
+  "scripts": {
+    "start": "lite-server --baseDir ./ --port 3333"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  },
+  "dependencies": {
+  }
+}
