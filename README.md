@@ -1,2 +1,2 @@
 # Tasklist
-Tasklist project using JavaScript, jQuery, and HTML.
+Tasklist project using JavaScript, jQuery, and HTML5.
